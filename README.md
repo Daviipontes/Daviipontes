@@ -13,11 +13,11 @@ Data Science and Data Engineering enthusiast with a passion for transforming dat
 
 ## 🛠️ Technical Skills
 
-**Programming Languages:** Python, SQL, PHP  
+**Programming Languages:** Python, SQL, PHP, C++, Javascript  
 **Data Science & ML:** Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn  
 **Data Engineering:** ETL Pipelines, Data Preprocessing, Feature Engineering  
 **Tools & Platforms:** Jupyter Notebook, Git, GitHub  
-**Databases:** SQL, Data Modeling  
+**Databases:** SQL, mongoDB, Data Modeling  
 
 ---
 
@@ -34,15 +34,15 @@ Regression analysis on UCI concrete dataset to predict compressive strength with
 ### Applied AI & Intelligent Systems
 
 **[DiabetesAI](https://github.com/ComputingTopics/DiabetesAI)**  
-Intelligent meal planning system for diabetes management using machine learning recommendations.
+Intelligent meal planning system for diabetes management using colaborative agents.
 
 **[Computational Intelligence](https://github.com/ViniFilgueiras/TI0175---INTELIGENCIA-COMPUTACIONAL-APLICADA)**  
-Applied computational intelligence projects exploring neural networks and optimization algorithms.
+Applied computational intelligence projects exploring exploratory analysis, regression and classfication modeling, neural networks and optimization algorithms.
 
 ### Web Development & Data Applications
 
 **[theme-Funarte](https://github.com/RedeMapas/theme-Funarte)**  
-Contributed to Funarte theme development for cultural mapping platform (PHP).
+Contributed to Funarte theme development for cultural mapping platform (PHP), front-end and back-end.
 
 ---
 
