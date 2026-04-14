@@ -44,6 +44,9 @@ Applied computational intelligence projects exploring exploratory analysis, regr
 **[theme-Funarte](https://github.com/RedeMapas/theme-Funarte)**  
 Contributed to Funarte theme development for cultural mapping platform (PHP), front-end and back-end.
 
+**[Airflow and docker API ingestion](https://github.com/RedeMapas/projeto-ingestao)**  
+Little project about API ingestion with docker, airflow and MinIo learned with Apoena Stack.
+
 ---
 
 ## 📈 GitHub Stats
